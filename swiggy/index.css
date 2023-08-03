@@ -1,0 +1,345 @@
+img {
+
+    margin-top: -14px;
+    margin-left: 30px;
+}
+
+.con {
+    display: flex;
+}
+
+.sideimg {
+    margin-top: -16.5%;
+    margin-left: 54.2%;
+}
+
+.lin {
+    text-decoration: none;
+    margin-top: -150px;
+    margin-left: 37%;
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    cursor: pointer;
+    display: inline-block;
+    text-align: center;
+    border: none;
+    font-weight: 600;
+    line-height: 40px;
+    width: auto;
+}
+
+.lin:hover {
+    color: orange;
+}
+
+.sig {
+
+    background-color: black;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: auto;
+    cursor: pointer;
+    height: 40px;
+    font-weight: 600;
+    line-height: 40px;
+    box-shadow: 0 1px 3px 0 rgba(0, 0, 0, .12);
+    font-size: 16px;
+    text-decoration: none;
+    display: inline-block;
+    padding: 0 2rem;
+    margin-left: 30px;
+    margin-top: -150px;
+}
+
+.xx {
+    display: flex;
+    margin-top: 28px;
+}
+
+.txt {
+
+    margin-top: -380px;
+    margin-left: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(36, 33, 33);
+    font-size: 40px;
+    letter-spacing: -.45px;
+    font-weight: 600;
+}
+
+.para {
+    font-size: 24px;
+    font-weight: 400;
+    width: 600px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 25px;
+    line-height: 40px;
+    color: #686b78;
+    letter-spacing: -.3px;
+    margin-top: -30px;
+}
+
+._3BIgv {
+    height: 58px;
+    line-height: 28px;
+    padding-top: 0;
+    padding-left: 15px;
+    padding-right: 242px;
+    caret-color: #fc8019;
+    font-size: 18px;
+    font-weight: 500;
+    margin-left: 25px;
+    margin-top: 20px;
+}
+
+._381fS {
+    background-color: transparent;
+    line-height: normal;
+    border: none;
+    outline: none;
+    height: 70px;
+    width: 100%;
+    font-size: 17px;
+    margin: 0;
+    padding: 0 20px;
+    padding-top: 22px;
+    box-shadow: none;
+    box-sizing: border-box;
+    border-radius: 0;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-weight: 500;
+}
+
+.fin {
+    width: 100%;
+    text-decoration: none;
+    cursor: pointer;
+    display: inline-block;
+    text-align: center;
+    border: none;
+    line-height: 50px;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 0 2rem;
+    color: #fc8019;
+    letter-spacing: 0;
+    color: #fff;
+    background-color: #fc8019;
+    box-shadow: 0 1px 3px 0 rgba(0, 0, 0, .12);
+    right: 0;
+    height: 63px;
+    line-height: 60px;
+    width: 140px;
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: .53px;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: -0.5%;
+}
+
+.ind {
+    font-weight: 400;
+    font-size: 15px;
+    color: #a9abb2;
+    letter-spacing: -.2px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 25px;
+    margin-top: 30px;
+}
+
+.u {
+    width: 570px;
+    list-style: none;
+    margin-left: -15px;
+}
+
+.l {
+    display: inline-block;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+}
+.brn
+{
+    background-color: #2b1e16;
+    margin-top: 74px;
+    width: 100%;
+    justify-content: space-between;
+    padding-left: 6px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.inner
+{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 80px;
+
+}
+.inner1
+{
+    color: #fff;
+    text-align: center;
+}
+.pic1
+{
+    height: 250px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    margin-top: -40px;
+}
+.pic2
+{
+    height: 250px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    margin-top: -50px;
+    margin-left: 10px;
+}
+.pic3
+{
+    height: 250px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    margin-top: -40px;
+    margin-left: -140px;
+}
+.no1{
+    font-size: 20px;
+    font-weight: 600;
+    padding-top: 40px;
+    margin-left: 30px;
+  
+}
+.no2{
+    font-size: 20px;
+    font-weight: 600;
+    padding-top: 48px;
+    margin-left: 20px;
+  
+}
+.no3{
+    font-size: 20px;
+    font-weight: 600;
+    padding-top: 40px;
+    margin-left: -120px;
+  
+}
+.or1{
+    font-size: 15px;
+    width: 260px;
+    color: #e0cbc1;
+    line-height: 1.3;
+    padding-top: 10px;
+    padding-left: 30px;
+    
+}
+.or2{
+    font-size: 15px;
+    width: 260px;
+    color: #e0cbc1;
+    line-height: 1.3;
+    padding-top: 10px;
+    margin-left: 20px;
+    
+}
+.or3{
+    font-size: 15px;
+    width: 260px;
+    color: #e0cbc1;
+    line-height: 1.3;
+    padding-top: 10px;
+    margin-right: 130px;
+   
+    
+}
+
+
+.res
+{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.resword
+{
+    font-size: 40px;
+    font-weight: 600;
+    width: 300px;
+    line-height: 1;
+    letter-spacing: -.45px;
+    margin-top: 130px;
+    margin-left: 30px;
+    color: #1d1d1f;
+}
+
+.resord{
+    font-size: 20px;
+    width: 400px;
+    font-weight: 400;
+    padding-top: 20px;
+    padding-bottom: 60px;
+    color: #7e808c;
+    line-height: 1.2;
+    margin-left: 30px;
+}
+.phnpic1
+{
+    margin-top: -382px;
+    margin-left: 530px;
+}
+.phnpic2
+{
+    margin-left: 870px ;
+    margin-top: -400px;
+}
+.footer
+{
+    background-color: black;
+    margin-top: -5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.fu
+{
+    display: block;
+    list-style-type: none;
+}
+.fhl
+{
+    color: grey;
+}
+.fl
+{
+    color:white;
+    font-size: 17px;
+   display: block;
+    text-decoration: none;
+    padding:  5px;
+}
+.fimg1
+{
+    margin-left: 1000px;
+    width: 200px;
+    
+}
+.fimg2
+{
+    margin-top: 130px;
+}
+.fc
+{
+    margin-top: 40px;
+    margin-left: 50px;
+}
